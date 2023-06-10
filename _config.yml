@@ -29,10 +29,32 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  tjdfamily
 
+author: Copyright &copy; 2023
+lang: en_US
+
 # Build settings
-theme: minima
+# always trues on github-pages, disables _plugins/
+safe: true 
+markdown: kramdown
+sass:
+  indentWidth: 4
+  style: compressed
+  precision: 10
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
