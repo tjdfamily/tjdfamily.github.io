@@ -3,7 +3,7 @@ layout: home
 header:
   title: Jun + Tim
   text: >
-    Our IVF story.
+    Our IVF love story.
 
   action: # action button is optional
     label: 1+ 619 536 4754
@@ -51,7 +51,7 @@ sections:
     section_id: junsinterests
     #background_style: bg-info
     title: Jun's Interests
-    icon: 10.jpg
+    icon: 20.jpg
     url: '#'
     personalinfo: >
       Jun speaks fluent Mandarin, Cantonese, and English!  Jun has bachelor and graduate degrees in accounting and finance and loves numbers.  Jun works as the controller for a branch office of an international accounting firm.  Jun has lived in China, the United Kingdom, and Southern California.  Her parents live with us in our home in San Diego and we enjoy cooking and traveling with each other.
@@ -76,7 +76,7 @@ sections:
     icon: 1.jpg
     url: '#'
     personalinfo: >
-      Tim has bachelor and graduate degrees in mathematics and engineering enjoys problem solving.  Tim works as a cloud software architect for a large international consulting firm.  Tim has lived in Illinois, Wisconsin, Missouri, and Southern California.  He has also backpacked across the western United States following the Oregon trail.
+      Tim has bachelor and graduate degrees in mathematics and engineering and enjoys problem solving.  Tim works as a cloud software architect for a large international consulting firm.  Tim has lived in Illinois, Wisconsin, Missouri, and Southern California.  He has also backpacked across the western United States following the Oregon trail.
     services:
       - title: Trail Running
         text: Enjoys trail running in the parks by our home.
@@ -109,9 +109,9 @@ sections:
         text: San Diego Zoo by the elephant exhibit.
         icon: 12.jpg
         url: '#'
-      - title: Redwoods
-        text: Northern California redwoods.
-        icon: 13.jpg
+      - title: Apollo Landing
+        text: Los Angeles Space Museum.
+        icon: 1.jpg
         url: '#'
       - title: Rose Garden
         text: San Diego Rose Garden
@@ -121,6 +121,31 @@ sections:
         text: La jolla shore beach.
         icon: 15.jpg
         url: '#'
+      - title: Hsi Lai Buddhist Temple
+        text: Los Angeles Buddhist Temple.
+        icon: 2.jpg
+        url: '#'
+      - title: Hsi Lai Buddhist Temple
+        text: Los Angeles Buddhist Temple.
+        icon: 3.jpg
+        url: '#'
+      - title: Hsi Lai Buddhist Temple
+        text: Los Angeles Buddhist Temple.
+        icon: 4.jpg
+        url: '#'     
+      - title: Lake Havasu
+        text: London Bridge.  It was transported from UK!
+        icon: 8.jpg
+        url: '#'
+      - title: Desert Garden
+        text: Huntington Garden in Los Angeles.
+        icon: 6.jpg
+        url: '#'
+      - title: Lake Havasu City
+        text: Arizona fun!  Casino boat.
+        icon: 7.jpg
+        url: '#'     
+
 
   # - type: aside.html
   #   section_id: aside
