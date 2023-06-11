@@ -143,8 +143,7 @@ sections:
       - title: Lake Havasu City
         text: Arizona fun!  Casino boat.
         icon: 7.jpg
-        url: '#'     
-
+        url: '#'
 
   # - type: aside.html
   #   section_id: aside
@@ -207,6 +206,13 @@ sections:
           Xmas Wedding!
         text: >-
           Christmas time wedding.
+      - image: assets/img/portfolio/thumbnails/18.jpg
+        title: >+
+          2017-2023 
+          <br/>
+          San Diego IVF
+        text: >-
+          Our ART journey spans across all of San Diego County.  Downtown San Diego in the background.
 
   - type: contact.html
     section_id: contacts
@@ -215,10 +221,10 @@ sections:
       Thank you for considering us in your journey!
       <br/>  
       <br/>  
-      We look forward to talking with you.
+      We look forward to talking with you!
       <br/>  
       <br/>  
-      Email or text or call.
+      Email, text or call.
 
     actions:
     - title: +1 (619) 536-4754
