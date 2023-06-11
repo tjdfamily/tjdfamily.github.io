@@ -188,10 +188,10 @@ sections:
   - type: timeline.html
     section_id: history
     title: History
-    background_style: bg-dark text-primary
+    background_style: bg-dark text-light
     last_image: assets/img/timeline-end.png
     actions:
-      - image: assets/img/portfolio/thumbnails/11.jpg
+      - image: assets/img/portfolio/thumbnails/21.jpg
         title: >+
           2014-2017
           <br/>
@@ -201,21 +201,13 @@ sections:
           <br/>
           <br/>
           San Diego + Orange county adventures!
-      - image: assets/img/portfolio/thumbnails/11.jpg
+      - image: assets/img/portfolio/thumbnails/22.jpg
         title: >+
           2017 
           <br/>
-          Married
+          Xmas Wedding!
         text: >-
           Christmas time wedding.
-      - image: assets/img/portfolio/thumbnails/11.jpg
-        title: >+
-          Dec 2017 
-          <br/>
-          Wedding!
-        text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
     section_id: contacts
