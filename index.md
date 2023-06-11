@@ -50,7 +50,7 @@ sections:
   - type: services.html
     section_id: junsinterests
     #background_style: bg-info
-    title: Jun's Interests
+    title: Jun
     icon: 20.jpg
     url: '#'
     personalinfo: >
@@ -72,7 +72,7 @@ sections:
   - type: services.html
     section_id: timsinterests
     #background_style: bg-info
-    title: Tim's Interests
+    title: Tim
     icon: 1.jpg
     url: '#'
     personalinfo: >
@@ -81,7 +81,6 @@ sections:
       - title: Trail Running
         text: Enjoys trail running in the parks by our home.
         icon: fa-solid fa-person-running
-        #url: https://startbootstrap.com/
       - title: Backpacking
         text: Backpacked across the entire western United States!
         icon: fa-solid fa-person-hiking
@@ -189,7 +188,7 @@ sections:
     section_id: history
     title: History
     background_style: bg-dark text-light
-    last_image: assets/img/timeline-end.png
+    last_image: assets/img/portfolio/thumbnails/19.jpg
     actions:
       - image: assets/img/portfolio/thumbnails/21.jpg
         title: >+
