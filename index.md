@@ -10,46 +10,50 @@ header:
     url: 'tel:6195364754'
 
 sections:
-  # - type: call-to-action.html
-  #   section_id: about
-  #   background_style: bg-secondary
-  #   title: About Jun
-  #   text: jun does this
-  #  # actions:
-  #  #   - title: Get Started!
-  #  #     url: '#page-top'
-  #  #     class: btn-light
 
   - type: paragraph.html
     section_id: ourstory
-    #background_style: bg-info
     title: Our Story
     text: >
-      Hi!  We are Tim and Jun and we are a family of four living in sunny Southern California.  Thank you for taking the time to read our story and considering participating in our journey with us.  
+      Hi!  We are Tim and Jun and we're a family of four living in sunny Southern California.  Thank you for taking the time to read our story and considering participating in our journey with us.  
       <br/>
       <br/>
-      We knew for as long as we've been together that we wanted a family together.  We tried for two years to conceive naturally but without success.  We started ART treatment and went through numerous IVF rounds and we were fortunate  enough to create four healthy embryos.  However, we had one unsuccesful transfer after which our IVF clinic recommended that surrogacy was our best option to have a family of our own.  The doctor believes that Jun's previous robotic myomectomy surgery permanently damaged her uterus and endometrial lining along with the ability to carry naturally.
+      We knew for as long as we've been together that we wanted a family together.  We tried for years to conceive naturally without success.  We started ART treatments and went through numerous IVF rounds.  We were fortunate enough to create four healthy embryos.  However, we had one unsuccesful transfer after which our IVF clinic recommended that surrogacy was our best option to have a family of our own.  The doctor stated that Jun's previous robotic myomectomy surgery permanently damaged her uterus and endometrial lining along with her ability to carry naturally.
       <br/>
       <br/>
       We know that together, with the help of an amazing surrogate, we can create the family that we have been dreaming of.  We truly appreciate, respect and love surrogates because they are not just changing the life of intended parents but also their own lives forever.  They are our angels.
 
-    # services:
-    #   - title: Biking
-    #     text: Enjoys riding bike in the parks by our home.
-    #     icon: fa-solid fa-bicycle
-    #   - title: Birds
-    #     text: Loves feeding the ducks at the lake.
-    #     icon: fa-solid fa-crow
-    #   - title: Chinese meals
-    #     text: Cooking Chinese food with her mom.
-    #     icon: fa-solid fa-shrimp
-    #   - title: Shopping
-    #     text: Enjoys shopping and looking for good deals.
-    #     icon: fa-solid fa-bag-shopping  
+  - type: paragraph.html
+    section_id: idealsurrogate    
+    title: Our Ideal Surrogate
+    text: >
+      <b>Our IVF Clinic's Requirements</b>
+
+      <ul>
+        <li>Preference for California, Nevada or Washington</li>
+        <li>Less than 35 years old</li>
+        <li>BMI less than 29</li>
+        <li>No smoking, drugs, alcohol</li>
+        <li>No criminal history.</li>
+        <li>Not receiving welfare, public housing or assistance</li>
+        <li>Less than 4 deliveries</li>
+        <li>No C Section deliveries</li>
+        <li>No preeclampsia</li>
+        <li>No history of complications</li>
+        <li>No history of surgery on uterus/reproductive system</li>
+      <ul>
+
+  - type: paragraph.html
+    section_id:     
+    title: Our Promise
+    text: >
+      <ul>
+        <li>60k Compenstation for CA.  2nd time surrogate additional.</li>
+        <li>Communicate with you as much as you want.</li>
+      <ul>
 
   - type: services.html
     section_id: junsinterests
-    #background_style: bg-info
     title: Jun
     icon: 20.jpg
     url: '#'
@@ -71,7 +75,6 @@ sections:
 
   - type: services.html
     section_id: timsinterests
-    #background_style: bg-info
     title: Tim
     icon: 1.jpg
     url: '#'
@@ -92,9 +95,6 @@ sections:
         icon: fa-solid fa-fish     
 
   - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
     projects:
       - title: Feeding the Ducks
         text: So many ducks!  They love bread.
@@ -145,44 +145,6 @@ sections:
         icon: 7.jpg
         url: '#'
 
-  # - type: aside.html
-  #   section_id: aside
-  #   title: Free Download at Start Bootstrap!
-  #   actions:
-  #     - title: Download Now!
-  #       url: https://startbootstrap.com/themes/creative/
-  #       class: btn-light
-
-  # - type: members.html
-  #   section_id: members
-  #   title: Our Crew!
-  #   background_style: bg-info text-white
-  #   members:
-  #     - title: Christina M. Aponte
-  #       text: Singer and Songwriter
-  #       image: assets/img/members/person1.jpg
-  #       url: '#'
-  #     - title: Gary D. Stevens
-  #       text: Bass guitar.
-  #       image: assets/img/members/person2.jpg
-  #       url: '#'
-  #     - title: Devon J. Fletcher
-  #       text: Lead guitar.
-  #       image: assets/img/members/person3.jpg
-  #       url: '#'
-  #     - title: Todd E. Anderson
-  #       text: Drums, percussion.
-  #       image: assets/img/members/person5.jpg
-  #       url: '#'
-  #     - title: Daniel T. Riley
-  #       text: Musician, songwriter, producer.
-  #       image: assets/img/members/person6.jpg
-  #       url: '#'
-  #     - title: Ella P. Walter
-  #       text: PR.
-  #       image: assets/img/members/person7.jpg
-  #       url: '#'
-
   - type: timeline.html
     section_id: history
     title: History
@@ -194,7 +156,7 @@ sections:
           2014-2017
           <br/>
           Romance
-        text: >-
+        text: >+
           We met at a halloween party in Orange County.  
           <br/>
           <br/>
@@ -203,15 +165,15 @@ sections:
         title: >+
           2017 
           <br/>
-          Xmas Wedding!
-        text: >-
+          Christmas Wedding!
+        text: >+
           Christmas time wedding.
       - image: assets/img/portfolio/thumbnails/18.jpg
         title: >+
           2017-2023 
           <br/>
           San Diego IVF
-        text: >-
+        text: >+
           Our ART journey spans across all of San Diego County.  Downtown San Diego in the background.
 
   - type: contact.html
