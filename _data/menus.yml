@@ -1,7 +1,9 @@
 header:
 - title: Our Story
   url: /#ourstory
-- title: History
-  url: /#history
+- title: Letter to our Surrogate
+  url: /#dearsurrogate
+- title: Become our Surrogate
+  url: /#idealsurrogate
 - title: Contact Us
   url: /#contacts
