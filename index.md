@@ -4,7 +4,6 @@ header:
   title: Jun + Tim
   text: >
     Help us complete our family!
-
   action: # action button is optional
     label: 1+ 619 536 4754
     url: 'tel:6195364754'
@@ -108,18 +107,10 @@ sections:
 
   - type: portfolio.html
     projects:
-      # - title: Desert Garden
-      #   text: Huntington Garden in Los Angeles.
-      #   icon: 6.jpg
-      #   url: '#'    
       - title: Bi-Plane pilots!
         text: Bi-Plane trip over San Diego.
         icon: 11.jpg
         url: '#'
-      # - title: Lilies
-      #   text: San Diego Zoo by the elephant exhibit.
-      #   icon: 12.jpg
-      #   url: '#'
       - title: Tim + Jun
         text: Jun's office.
         icon: 27.jpg
@@ -128,10 +119,6 @@ sections:
         text: Coffee Farm.
         icon: 30.jpg
         url: '#'
-      # - title: Rose Garden
-      #   text: San Diego Rose Garden
-      #   icon: 14.jpg
-      #   url: '#'
       - title: Northern California
         text: Redwoods
         icon: 28.jpg
@@ -143,15 +130,7 @@ sections:
       - title: Hsi Lai Buddhist Temple
         text: Los Angeles Buddhist Temple.
         icon: 2.jpg
-        url: '#'
-      # - title: Hsi Lai Buddhist Temple
-      #   text: Los Angeles Buddhist Temple.
-      #   icon: 3.jpg
-      #   url: '#'
-      # - title: Hsi Lai Buddhist Temple
-      #   text: Los Angeles Buddhist Temple.
-      #   icon: 4.jpg
-      #   url: '#'     
+        url: '#'  
       - title: Lake Havasu
         text: Fishing
         icon: 29.jpg
