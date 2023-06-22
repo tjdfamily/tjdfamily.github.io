@@ -14,7 +14,8 @@
         <meta property="og:image:height" content="539" />
         <meta property="og:updated_time" content="1687416480" />
         <!-- TYPE BELOW IS PROBABLY: 'website' or 'article' or look on https://ogp.me/#types -->
-        <meta property="og:type" content="website"/>
+        <!-- article wont cache the cover age -->
+        <meta property="og:type" content="article"/>
 
         <title>{% assign title_is_not_empty = page.title | is_not_empty %}{% if title_is_not_empty %}{{ page.title }} - {% endif %}{{ site.title }}</title>
         <!-- Google Tag Manager -->
