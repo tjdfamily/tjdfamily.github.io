@@ -143,6 +143,18 @@ sections:
         text: Arizona fun!  Casino boat.
         icon: 7.jpg
         url: '#'
+      - title: March Air Field
+        text: Super fun
+        icon: 31.jpg
+        url: '#'
+      - title: Boston 
+        text: Harbor
+        icon: 32.jpg
+        url: '#'        
+      - title: Cuyamaca Peak 
+        text: 6512 Ft
+        icon: 33.jpg
+        url: '#'      
 
   - type: paragraph.html
     section_id: dearsurrogate
