@@ -52,7 +52,7 @@ sections:
       Surrogacy is a rewarding experience for both intended parents and surrogates.  Financial compensation may not be the primary motivation for being a surrogate.  However, we will do our best to compensate your generosity fairly.
 
       <ul><li><b>Base Package</b><ul>
-          <li>$60k Compensation for CA.</li><li>Experienced surrogate, additional compenstation.</li><li>Contract signing and pregnancy bonuses</li><li>Independent SeedTrust escrow account for compensation.</li><li>Independent specialized attorney</li>        
+          <li>Competitive Compensation</li><li>Experienced surrogate, additional compenstation.</li><li>Contract signing and pregnancy bonuses</li><li>Independent SeedTrust escrow account for compensation.</li><li>Independent specialized attorney</li>        
         </ul></li><li><b>Paid Benefits + Perks</b><ul>
           <li>Life and Health Insurance</li><li>Travel and expenses to our clinic</li><li>Medical, background and psychological screenings</li><li>Monthly expense allowance</li><li>Lost wages coverage</li><li>Maternity clothing allowance</li><li>And more...!</li></ul></li></ul>
       To learn more about our Surrogate compensation proposal, please contact us or complete the <a href="#contactus">form</a>. We compensate for referrals! 
