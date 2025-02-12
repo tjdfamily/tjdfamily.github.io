@@ -46,7 +46,7 @@ sections:
       If you take the journey with us you will not be "surrogate number 123" at an agency you would be part of our family!
       
       <ul>
-        <li><b>General Requirements</b><ul><li>US Citizen or Permanent Resident</li><li>Less than 38 years old</li><li>Willing to undergo and pass psychological screening and criminal background check.</li><li>Ideally live in California, Nevada or Washington</li></ul></li>
+        <li><b>Our Clinic's General Requirements</b><ul><li>Less than 41 years old</li><li>Willing to undergo and pass psychological screening and criminal background check.</li></ul></li>
         <li><b>Medical Requirements</b><ul><li>Delivered at least one healthy full-term baby.</li><li>No history of pregnancy complications</li><li>No history of surgery on uterus or reproductive system</li><li>Less than 7 deliveries</li><li>No C-Section deliveries</li><li>Delivered within the past 5 years</li><li>BMI less than 34</li>
       </ul>
 
