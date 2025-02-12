@@ -38,11 +38,16 @@ sections:
     section_id: idealsurrogate    
     title: Our Ideal Surrogate
     text: >
-      Kind, with a big heart, responsible, honest, and loves being pregnant. A desire to make life beautiful for others.
+      Kind, with a big heart, responsible, honest, and loves being pregnant. 
+      We want a surrogate who is excited for the journey and wants to share this amazing life changing experience with us!  
+      We prefer a close relationship with our surrogate without an agency middlemen playing the "telephone game."
+      <br>
+      <br>
+      If you take the journey with us you will not be "surrogate number 123" at an agency you would be part of our family!
       
       <ul>
         <li><b>General Requirements</b><ul><li>US Citizen or Permanent Resident</li><li>Less than 38 years old</li><li>Willing to undergo and pass psychological screening and criminal background check.</li><li>Ideally live in California, Nevada or Washington</li></ul></li>
-        <li><b>Medical Requirements</b><ul><li>Delivered at least one healthy full-term baby.</li><li>No history of pregnancy complications</li><li>No history of surgery on uterus or reproductive system</li><li>Less than 4 deliveries</li><li>No C-Section deliveries</li><li>Delivered within the past 5 years</li><li>BMI less than 31</li>
+        <li><b>Medical Requirements</b><ul><li>Delivered at least one healthy full-term baby.</li><li>No history of pregnancy complications</li><li>No history of surgery on uterus or reproductive system</li><li>Less than 7 deliveries</li><li>No C-Section deliveries</li><li>Delivered within the past 5 years</li><li>BMI less than 34</li>
       </ul>
 
   - type: paragraph.html
@@ -52,9 +57,9 @@ sections:
       Surrogacy is a rewarding experience for both intended parents and surrogates.  Financial compensation may not be the primary motivation for being a surrogate.  However, we will do our best to compensate your generosity fairly.
 
       <ul><li><b>Base Package</b><ul>
-          <li>Competitive Compensation</li><li>Experienced surrogate, additional compenstation.</li><li>Contract signing and pregnancy bonuses</li><li>Independent SeedTrust escrow account for compensation.</li><li>Independent specialized attorney</li>        
+          <li>Competitive Compensation</li><li>Experienced surrogate, additional compenstation.</li><li>Contract signing and pregnancy bonuses</li><li>Independent SeedTrust escrow account for compensation.</li><li>Independent specialized attorney</li><li>We will match angency packages.</li>        
         </ul></li><li><b>Paid Benefits + Perks</b><ul>
-          <li>Life and Health Insurance</li><li>Travel and expenses to our clinic</li><li>Medical, background and psychological screenings</li><li>Monthly expense allowance</li><li>Lost wages coverage</li><li>Maternity clothing allowance</li><li>And more...!</li></ul></li></ul>
+          <li>We pay for Life and Health Insurance</li><li>We pay all travel and expenses to our clinic</li><li>Pay all medical, background and psychological screenings</li><li>Monthly expense allowance</li><li>Lost wages coverage</li><li>Maternity clothing allowance</li><li>And more...!</li></ul></li></ul>
       To learn more about our Surrogate compensation proposal, please contact us or complete the <a href="#contactus">form</a>. We compensate for referrals! 
 
   - type: services.html
