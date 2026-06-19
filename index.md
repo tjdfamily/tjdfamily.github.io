@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: Jun + Tim
+  title: Jun + Tim + Baby A
   text: >
     Help us complete our family!
   action: # action button is optional
@@ -32,7 +32,29 @@ sections:
       In addition, we have prepared a letter to our future surrogate to share our thoughts from the bottom of our hearts with you. Please click on the <a href="#dearsurrogate">Letter to our Surrogate</a> to read it. 
       <br/>
       <br/>
-      We’re so ready and excited! We can’t wait to get to know more about you! If you know someone who is a good fit for us, please connect us together. We will provide referral compensation.
+      **[2026] Big Update!**
+      <br/>
+      <br/>
+      We're thrilled to share that we successfully welcomed our beloved baby! 
+      <br/>
+      <br/>      
+      Our first journey has been amazing, and now we want to expand our family with a sibling. We're seeking a surrogate to help us complete the next chapter of our family story with a sibling.
+      <br/>
+      <br/>
+      As experienced intended parents who have navigated the entire surrogacy process, we are equipped with the knowledge, resources, and financial stability to support another surrogate on this incredible journey. We have extensive experience managing independent legal counsel, understanding financial structures including escrow accounts, and navigating all aspects of the surrogacy process. We are generous with our time and are happy to share guidance, resources, and support with the surrogate who joins us.
+
+  - type: paragraph.html
+    section_id: ourexperience
+    title: Our Experience & Resources
+    text: >
+      We are experienced intended parents who have successfully completed our surrogacy journey. Throughout this process, we've developed deep expertise in managing all aspects of independent surrogacy, including:
+      
+        <li><b>Independent Legal Counsel</b> - Navigating contracts, parental rights, and all legal requirements</li>
+        <li><b>Financial Structure & Escrow</b> - We funded and used third party to manage escrow accounts and compensation with integrity</li>
+        <li><b>End-to-End Process Management</b> - From embryo creation through birth and beyond</li>
+      
+      <br/>
+      We are generous with our time and happy to share our knowledge, introduce you to our trusted professionals, and support other intended parents who are beginning their surrogacy journey. If you are considering surrogacy and would like to learn from our experience, please reach out.
 
   - type: paragraph.html
     section_id: idealsurrogate    
@@ -110,6 +132,20 @@ sections:
         text: Which is good because there is usually not too much catching ;-)
         icon: fa-solid fa-fish     
 
+  - type: paragraph.html
+    section_id: babya
+    title: About Baby A!
+    text: >
+      <center><img src="/assets/img/portfolio/thumbnails/34.jpg" width="280" height="330" /></center>
+      <br>
+      **Baby A arrived spring of 2026 and has brought immeasurable joy to our family!** 
+      <br>
+      <br>
+      We are so grateful to our amazing surrogate B who made this dream possible. Baby A is surrounded by love from two devoted parents and two loving grandparents in our multi-generational, multicultural home.
+      <br>
+      <br>
+      Baby A is growing up in sunny Southern California with plenty of outdoor adventures, family walks in the park to feed the ducks, amazing homemade Asian meals prepared by grandma, and most importantly, a family filled with love, laughter, and unconditional support. We cannot wait to watch Baby A grow and explore the world alongside her big brother or sister!
+      
   - type: portfolio.html
     projects:
       - title: Bi-Plane pilots!
@@ -187,7 +223,7 @@ sections:
       <br/><br/>
       Warmest Regards,
       <br/><br/>
-      Tim + Jun
+      Tim + Jun + Baby A
 
   - type: contact.html
     section_id: contactus
